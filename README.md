@@ -70,7 +70,7 @@ fls.exe -r -o 2048 C:\forensics\disk.dd
 icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
-Disk Structure Analysis Results
+#### Disk Structure Analysis Results
 <img width="315" height="88" alt="Screenshot 2025-08-28 at 2 25 38 AM" src="https://github.com/user-attachments/assets/d81f5217-a526-4ee7-b2bc-903d610280ca" />
 
 #### Create Disk
